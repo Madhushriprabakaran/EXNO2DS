@@ -178,6 +178,11 @@ sns.pairplot(dt)
 ```
 <img width="782" height="763" alt="image" src="https://github.com/user-attachments/assets/3befec85-31b1-48a6-9469-1e56034b8ef7" />
 
+# SUMMARY
+In this experiment, Exploratory Data Analysis (EDA) is performed on the Titanic dataset using Python libraries such as Pandas, NumPy, Seaborn and Matplotlib. The dataset is imported, and its shape, data types, missing values, duplicate records and statistical information are examined. The PassengerId column is set as the index, and the Sex column is renamed as Gender.
+
+Different visualization techniques such as countplot, catplot, boxplot, scatterplot, jointplot, heatmap and pairplot are used to analyze passenger details. The relationships between age, gender, passenger class, fare and survival status are studied using graphs. Finally, the dataset is successfully analyzed and the outputs are verified.
+
 
 # RESULT
 The Program and The Output has been sucessfully Verified along with the Visualization.
