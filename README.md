@@ -180,7 +180,7 @@ sns.pairplot(dt)
 
 # SUMMARY
 
-In this experiment, Exploratory Data Analysis (EDA) is performed on the Titanic dataset to understand the data and identify useful patterns. Pandas is used to load and examine the dataset, while missing values, duplicate records and data types are checked to understand the quality of the data. The PassengerId column is set as the index, and Sex is renamed as Gender for better readability.
+In this experiment, Exploratory Data Analysis (EDA) is performed on the Titanic dataset to understand the data and identify useful patterns. Pandas is used to load and examine the dataset, while missing values, duplicate records and data types are checked to understand the quality of the data. The PassengerId column is set as the index.
 
 Boxplots are used to identify outliers and understand the distribution of passenger ages. Countplot and catplot are used to compare passenger survival based on gender and passenger class. Scatterplot and jointplot are used to study the relationship between age and fare. Heatmap is used to identify correlations between numerical variables, while pairplot helps visualize relationships between multiple variables. Thus, these methods help in understanding passenger details, discovering patterns and drawing meaningful conclusions from the dataset.
 
